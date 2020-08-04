@@ -8,7 +8,6 @@ A python program, which extract all test files(visible) of a problem from Codefo
 
 2.Requests
 
-3.ssl
 
 (To install above librarires in your system, google "install abc in linux" or "install abc in Windows"
 
